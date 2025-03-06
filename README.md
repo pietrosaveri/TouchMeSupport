@@ -13,4 +13,4 @@ The support website serves as a dedicated space where users can:
 - **Get in touch for any questions or issues.** If you encounter any problems or have inquiries, you can reach out for assistance.
 - **Provide feedback.** Your thoughts help improve the app, and you can send suggestions directly through the feedback form on the website.
 
-Visit the support site to ensure the best experience with **TouchMe: Tactile Bliss**!
+Visit the **[support site](https://pietrosaveri.github.io/TouchMeSupport/)** to ensure the best experience with **TouchMe: Tactile Bliss**!
