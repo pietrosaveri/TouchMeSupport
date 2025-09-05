@@ -1,5 +1,7 @@
 # TouchMe: Tactile Bliss
 
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)]([https://apps.apple.com/app/idYOUR_APP_ID](https://apps.apple.com/it/app/touchme-tactile-bliss/id6742422031?l=en-GB))
+
 ## About the App
 **TouchMe: Tactile Bliss** is an innovative app designed to enhance the haptic feedback experience on iPhones. Every button press and toggle switch becomes more immersive and satisfying, making interactions with your device feel more tactile and engaging.
 
@@ -15,4 +17,4 @@ The support website serves as a dedicated space where users can:
 
 Visit the **[support site](https://pietrosaveri.github.io/TouchMeSupport/)** to ensure the best experience with **TouchMe: Tactile Bliss**!
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)]([https://apps.apple.com/app/idYOUR_APP_ID](https://apps.apple.com/it/app/touchme-tactile-bliss/id6742422031?l=en-GB))
+
